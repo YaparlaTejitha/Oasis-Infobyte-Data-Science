@@ -4,7 +4,15 @@ This repository contains my final submissions for the Oasis Infobyte Data Scienc
 
 ---
 
+## 🚨 Internship Verification Note
+To the Oasis Infobyte Review Team, please note the following structure regarding my task submissions:
+* **GitHub Portfolio (5/5 Tasks):** This repository contains the complete codebase, datasets, and Jupyter Notebooks for all **5 assigned internship tasks**. 
+* **LinkedIn Video Demonstrations (3/5 Tasks):** As per the program's flexible guidelines, I have selected my top **3 core projects** to showcase via working video demonstrations on my LinkedIn profile (**Task 1: Iris Flower Classification**, **Task 2: Unemployment Analysis**, and **Task 4: Email Spam Detection**). 
+
+---
+
 ## 🌸 Task 1: Iris Flower Classification
+*🎥 Video Demonstration Posted on LinkedIn*
 
 ### 📌 Project Objective
 The goal of this project is to build a machine learning classification model that can accurately predict the specific species of an Iris flower (`Iris-setosa`, `Iris-versicolor`, or `Iris-virginica`) based on its physical measurements: Sepal Length, Sepal Width, Petal Length, and Petal Width.
@@ -22,6 +30,7 @@ The goal of this project is to build a machine learning classification model tha
 ---
 
 ## 📉 Task 2: Unemployment Analysis with Python
+*🎥 Video Demonstration Posted on LinkedIn*
 
 ### 📌 Project Objective
 Unemployment is measured by the unemployment rate, which is the number of people who are unemployed as a percentage of the total labor force. This project focuses on analyzing the economic shock and sharp increases in the unemployment rate across India caused by the COVID-19 pandemic in 2020.
@@ -38,6 +47,7 @@ Unemployment is measured by the unemployment rate, which is the number of people
 ---
 
 ## 🚗 Task 3: Car Price Prediction with Machine Learning
+*💻 Code & Notebook Exclusive to GitHub*
 
 ### 📌 Project Objective
 The valuation of a vehicle depends on several real-world factors. This project focuses on building a predictive machine learning system capable of estimating the actual selling price of a car based on structural attributes, mechanical power, and market demand.
@@ -59,6 +69,7 @@ The valuation of a vehicle depends on several real-world factors. This project f
 ---
 
 ## 📧 Task 4: Email Spam Detection with Machine Learning
+*🎥 Video Demonstration Posted on LinkedIn*
 
 ### 📌 Project Objective
 With the rising volume of phishing attempts and junk mail, automated text filtering is essential. This project focuses on building an intelligent Natural Language Processing (NLP) system capable of reading raw text email messages and classifying them as either `Ham (Safe)` or `Spam`.
@@ -80,6 +91,7 @@ With the rising volume of phishing attempts and junk mail, automated text filter
 ---
 
 ## 📈 Task 5: Sales Prediction Using Python
+*💻 Code & Notebook Exclusive to GitHub*
 
 ### 📌 Project Objective
 Predicting consumer demand is a fundamental requirement for optimizing corporate marketing strategies. This project focuses on building a predictive multiple linear regression machine learning model to accurately estimate overall product sales based on advertising resource allocations across TV, Radio, and Newspaper mediums.
@@ -93,6 +105,10 @@ Predicting consumer demand is a fundamental requirement for optimizing corporate
 1. **Data Preprocessing:** Handled structural indexing anomalies by removing redundant ID markers (`Unnamed: 0`) to isolate clean modeling dimensions.
 2. **Regression Modeling:** Engineered an 80/20 data split to feed localized marketing spends into a predictive Scikit-Learn linear regression equation.
 3. **Advanced Data Visualization:** Constructed a highly stylized regression fit plot mapping actual versus predicted sales values alongside a translucent statistical confidence band.
+
+### 💻 Technologies Used
+* **Language:** Python
+* **Libraries:** Pandas, NumPy, Scikit-learn (LinearRegression), Matplotlib, Seaborn
 
 ### 💻 Technologies Used
 * **Language:** Python
