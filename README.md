@@ -47,7 +47,7 @@ Unemployment is measured by the unemployment rate, which is the number of people
 ---
 
 ## 🚗 Task 3: Car Price Prediction with Machine Learning
-*💻 Code & Notebook Exclusive to GitHub*
+*🎥 Video Demonstration Posted on LinkedIn*
 
 ### 📌 Project Objective
 The valuation of a vehicle depends on several real-world factors. This project focuses on building a predictive machine learning system capable of estimating the actual selling price of a car based on structural attributes, mechanical power, and market demand.
@@ -69,7 +69,7 @@ The valuation of a vehicle depends on several real-world factors. This project f
 ---
 
 ## 📧 Task 4: Email Spam Detection with Machine Learning
-*🎥 Video Demonstration Posted on LinkedIn*
+*💻 Code & Notebook Exclusive to GitHub*
 
 ### 📌 Project Objective
 With the rising volume of phishing attempts and junk mail, automated text filtering is essential. This project focuses on building an intelligent Natural Language Processing (NLP) system capable of reading raw text email messages and classifying them as either `Ham (Safe)` or `Spam`.
